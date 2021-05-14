@@ -1,0 +1,6 @@
+*.html
+*.css
+.bsp
+.idea
+project/target
+target
